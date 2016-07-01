@@ -8,7 +8,7 @@ C4::Plugin *ConstructPlugin(void)
 	return new(GitanicParticularPlugin);
 }
 
-GitanicParticularPlugin::GitanicParticularPlugin()
+GitanicParticularPlugin::GitanicParticularPlugin() : particulatorMethod(kMethodGitanicParticulator,"Particulator")
 {
 }
 

@@ -1,0 +1,4 @@
+MKLINK /J "C:\Users\Chris\Documents\C4 Engine\3.0\PluginCode\Gitanic\Particulator" "C:\Users\Chris\Dropbox\C4 Projects\Gitanic\Particulator\PluginCode\Gitanic\Particulator"
+MKLINK /J "C:\Users\Chris\Documents\C4 Engine\3.0\VisualStudio2012\C4\Gitanic\Particulator" "C:\Users\Chris\Dropbox\C4 Projects\Gitanic\Particulator\VisualStudio2012\C4\Gitanic\Particulator"
+MKLINK /J "C:\Users\Chris\Documents\C4 Engine\3.0\Data\Gitanic\Particulator" "C:\Users\Chris\Dropbox\C4 Projects\Gitanic\Particulator\Data\Gitanic\Particulator"
+
